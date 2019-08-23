@@ -11957,11 +11957,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Srikanth\\source\\repos\\KafkaNetCoreAPI\\KafkaNetCoreAPI\\KafkaNetCoreAPI.csproj",
+      "projectUniqueName": "E:\\GitHub projects\\KafkaWebAPI\\KafkaDotNetCoreAPIS\\KafkaNetCoreAPI\\KafkaNetCoreAPI\\KafkaNetCoreAPI.csproj",
       "projectName": "KafkaNetCoreAPI",
-      "projectPath": "C:\\Users\\Srikanth\\source\\repos\\KafkaNetCoreAPI\\KafkaNetCoreAPI\\KafkaNetCoreAPI.csproj",
+      "projectPath": "E:\\GitHub projects\\KafkaWebAPI\\KafkaDotNetCoreAPIS\\KafkaNetCoreAPI\\KafkaNetCoreAPI\\KafkaNetCoreAPI.csproj",
       "packagesPath": "C:\\Users\\Srikanth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Srikanth\\source\\repos\\KafkaNetCoreAPI\\KafkaNetCoreAPI\\obj\\",
+      "outputPath": "E:\\GitHub projects\\KafkaWebAPI\\KafkaDotNetCoreAPIS\\KafkaNetCoreAPI\\KafkaNetCoreAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -27,6 +27,7 @@ namespace KafkaNetCoreAPI
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddSingleton(Configuration.GetSection("kafka").Get<KafkaConfiguration>());
+            services.AddSingleton(Configuration.GetSection("kafka").Get<ConsumerConfiguration>());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

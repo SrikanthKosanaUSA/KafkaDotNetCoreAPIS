@@ -12,20 +12,27 @@ namespace KafkaNetCoreAPI.Controllers
     public class ValuesController : ControllerBase
     {
         private readonly ProducerConfig _config;
+        private readonly ConsumerConfig _consumerconf;
         private string topic;
+        private string consumertopic;
 
-        public ValuesController(KafkaConfiguration config)
+        public ValuesController(KafkaConfiguration config, ConsumerConfiguration consumerconf)
         {
             _config = config;
             topic = config.topic;
+            _consumerconf = consumerconf;
+            consumertopic = consumerconf.topic;
 
         }
 
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public string Get()
         {
-            return new string[] { "value1", "value2" };
+            KafkaReader reader = new KafkaReader(_consumerconf, topic);
+            string message = reader.Reader();
+            return message;
+
         }
 
         // GET api/values/5
