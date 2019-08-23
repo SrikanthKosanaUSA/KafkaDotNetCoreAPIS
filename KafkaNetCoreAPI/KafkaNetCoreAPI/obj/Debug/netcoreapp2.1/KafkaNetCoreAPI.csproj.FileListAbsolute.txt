@@ -1,0 +1,14 @@
+C:\Users\Srikanth\source\repos\KafkaNetCoreAPI\KafkaNetCoreAPI\bin\Debug\netcoreapp2.1\KafkaNetCoreAPI.deps.json
+C:\Users\Srikanth\source\repos\KafkaNetCoreAPI\KafkaNetCoreAPI\bin\Debug\netcoreapp2.1\KafkaNetCoreAPI.runtimeconfig.json
+C:\Users\Srikanth\source\repos\KafkaNetCoreAPI\KafkaNetCoreAPI\bin\Debug\netcoreapp2.1\KafkaNetCoreAPI.runtimeconfig.dev.json
+C:\Users\Srikanth\source\repos\KafkaNetCoreAPI\KafkaNetCoreAPI\bin\Debug\netcoreapp2.1\KafkaNetCoreAPI.dll
+C:\Users\Srikanth\source\repos\KafkaNetCoreAPI\KafkaNetCoreAPI\obj\Debug\netcoreapp2.1\KafkaNetCoreAPI.csprojAssemblyReference.cache
+C:\Users\Srikanth\source\repos\KafkaNetCoreAPI\KafkaNetCoreAPI\obj\Debug\netcoreapp2.1\KafkaNetCoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\Srikanth\source\repos\KafkaNetCoreAPI\KafkaNetCoreAPI\obj\Debug\netcoreapp2.1\KafkaNetCoreAPI.RazorAssemblyInfo.cache
+C:\Users\Srikanth\source\repos\KafkaNetCoreAPI\KafkaNetCoreAPI\obj\Debug\netcoreapp2.1\KafkaNetCoreAPI.RazorAssemblyInfo.cs
+C:\Users\Srikanth\source\repos\KafkaNetCoreAPI\KafkaNetCoreAPI\obj\Debug\netcoreapp2.1\KafkaNetCoreAPI.AssemblyInfoInputs.cache
+C:\Users\Srikanth\source\repos\KafkaNetCoreAPI\KafkaNetCoreAPI\obj\Debug\netcoreapp2.1\KafkaNetCoreAPI.AssemblyInfo.cs
+C:\Users\Srikanth\source\repos\KafkaNetCoreAPI\KafkaNetCoreAPI\obj\Debug\netcoreapp2.1\KafkaNetCoreAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Srikanth\source\repos\KafkaNetCoreAPI\KafkaNetCoreAPI\bin\Debug\netcoreapp2.1\KafkaNetCoreAPI.pdb
+C:\Users\Srikanth\source\repos\KafkaNetCoreAPI\KafkaNetCoreAPI\obj\Debug\netcoreapp2.1\KafkaNetCoreAPI.dll
+C:\Users\Srikanth\source\repos\KafkaNetCoreAPI\KafkaNetCoreAPI\obj\Debug\netcoreapp2.1\KafkaNetCoreAPI.pdb
